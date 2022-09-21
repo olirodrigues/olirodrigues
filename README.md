@@ -1,6 +1,6 @@
 ### Hii! I'm Olivia Rodrigues
 
-- 🌱 I’m currently learning React and Next.js
+- 🌱 I’m currently learning GraphQL
 - 😄 Pronouns: She/Her
 
 <div>
