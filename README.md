@@ -1,6 +1,5 @@
 ### Hii! I'm Olivia Rodrigues
 
-- 🌱 I’m currently learning GraphQL
 - 😄 Pronouns: She/Her
 
 <div>
